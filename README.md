@@ -1,9 +1,9 @@
 
 <h1 align="left">Hi 👋, I'm Elmir</h1>
-<h3 align="left">I'm just a Full Stack Javascript Developer who wants to make useful products for people's daily life.</h3>
+<h3 align="left">MERN Developer</h3>
 <img align="right" alt="Coding" width='400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🌱 I’m currently learning **node.js**!
+- 🌱 I’m currently learning **react**!
 
 
 - 💬 Ask me about **what you want**
