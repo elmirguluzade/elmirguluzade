@@ -1,12 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Elmir</h1>
-<h3 align="left">MERN Developer</h3>
+<h3 align="left">Software Developer</h3>
 <img align="right" alt="Coding" width='400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-- 🌱 I’m currently learning **nextjs**!
-
-
-- 💬 Ask me about **what you want**
 
 - 📫 How to reach me **elmir.quluzade627@gmail.com**
 
